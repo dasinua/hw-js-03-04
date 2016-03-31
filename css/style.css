@@ -1,0 +1,39 @@
+	body {
+	background: #EEF3FA;
+	font-family: Arial, sans-serif;
+}
+
+.da-container {
+	width: 700px;
+	margin: 0 auto;
+	background: #fff;
+}
+h1 {
+	font-size: 18px;
+	font-weight: normal;
+	text-align: center;
+	padding-top: 20px;
+}
+.da-form-answer {
+	padding: 20px 0 5px 60px;
+}
+.da-form-answer label {
+	padding-left: 20px;
+}
+input[type="checkbox"] {
+	background: red;
+	border: 2px solid #000;
+}
+.da-button {
+	font-size: 16px;
+	padding: 10px 25px;
+	background: #CFE2F3;
+	border: 2px solid #000;
+	display: block;
+	margin: 50px auto;
+    outline: none;
+}
+.da-button:hover {
+	background: #425F9C;
+	cursor: pointer;
+}
